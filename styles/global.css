@@ -1,0 +1,39 @@
+/* globals.css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    font-style: italic;
+    text-align: center;
+    font-size: 2rem;
+    color: #FFD700; /* Gold color for header */
+    padding: 20px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  a {
+    color: #FF6347; /* Tomato color for links */
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #32CD32; /* Lime color on hover */
+    text-decoration: underline;
+  }
+  
+  h1, h2, h3 {
+    color: #FF6347; /* Tomato color for headings */
+  }
+  

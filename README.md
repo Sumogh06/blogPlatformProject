@@ -1,5 +1,3 @@
-# blogPlatformProject
-
 Blog Platform Project
 
 Welcome to the Blog Platform Project! This project is designed to provide a platform for creating, customizing, and managing blog posts. It includes several core features such as user authentication, theme customization, and content management.
