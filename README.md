@@ -19,10 +19,6 @@ Tech Stack
 
 Installation
 
-    Clone the repository:
-
-git clone https://github.com/skp1903/blogplatfrom-project.git
-
 Install dependencies:
 
 npm install
@@ -50,4 +46,10 @@ Contributing
 Feel free to fork the project, create a new branch, and submit a pull request with any improvements or bug fixes!
 License
 
-This project is licensed under the MIT License.
+Result Video tape:
+
+
+https://github.com/user-attachments/assets/8cd28f17-be78-4858-af12-51997230852a
+
+
+
